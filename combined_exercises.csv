@@ -1,0 +1,172 @@
+Age Group,Type,Exercise,No. of Reps,No. of Sets,Home
+6-12 years,Weight Loss,Jumping Jacks,15-20 reps,2,Yes
+6-12 years,Weight Loss,Burpees,5-8 reps,2,Yes
+6-12 years,Weight Loss,High Knees,20-25 sec,2,Yes
+6-12 years,Weight Loss,Mountain Climbers,10-15 reps/leg,2,Yes
+6-12 years,Weight Loss,Squats,8-12 reps,2,Yes
+6-12 years,Weight Loss,Lunges,6-10 reps/leg,2,Yes
+6-12 years,Weight Loss,Push-ups,5-8 reps,2,Yes
+6-12 years,Weight Loss,Plank,15-30 sec,2,Yes
+6-12 years,Weight Loss,Bicycle Crunches,10-15 reps/side,2,Yes
+6-12 years,Weight Loss,Russian Twists,10-15 reps/side,2,Yes
+13-18 years,Weight Loss,Jumping Jacks,25-30 reps,2,Yes
+13-18 years,Weight Loss,Burpees,12-15 reps,2,Yes
+13-18 years,Weight Loss,High Knees,35-40 sec,2,Yes
+13-18 years,Weight Loss,Mountain Climbers,20-25 reps/leg,2,Yes
+13-18 years,Weight Loss,Squats,11-14 reps,2,Yes
+13-18 years,Weight Loss,Lunges,8-12 reps/leg,2,Yes
+13-18 years,Weight Loss,Push-ups,8-12 reps,2,Yes
+13-18 years,Weight Loss,Plank,40-45 sec,2,Yes
+13-18 years,Weight Loss,Bicycle Crunches,15-20 reps/side,2,Yes
+13-18 years,Weight Loss,Russian Twists,15-20 reps/side,2,Yes
+19-35 years,Weight Loss,Jumping Jacks,30-35 reps,2,Yes
+19-35 years,Weight Loss,Burpees,15-18 reps,2,Yes
+19-35 years,Weight Loss,High Knees,45-50 sec,2,Yes
+19-35 years,Weight Loss,Mountain Climbers,10-15 reps/leg,2,Yes
+19-35 years,Weight Loss,Squats,13-15 reps,2,Yes
+19-35 years,Weight Loss,Lunges,15-18 reps/leg,2,Yes
+19-35 years,Weight Loss,Push-ups,15-20 reps,2,Yes
+19-35 years,Weight Loss,Plank,1-2 min,2,Yes
+19-35 years,Weight Loss,Bicycle Crunches,20-25 reps/side,2,Yes
+19-35 years,Weight Loss,Russian Twists,20-25 reps/side,2,Yes
+36-60 years,Weight Loss,Jumping Jacks,20-25 reps,2,Yes
+36-60 years,Weight Loss,Burpees,10-12 reps,2,Yes
+36-60 years,Weight Loss,High Knees,30-35 sec,2,Yes
+36-60 years,Weight Loss,Mountain Climbers,10-15 reps/leg,2,Yes
+36-60 years,Weight Loss,Squats,9-11 reps,2,Yes
+36-60 years,Weight Loss,Lunges,6-10 reps/leg,2,Yes
+36-60 years,Weight Loss,Push-ups,6-9 reps,2,Yes
+36-60 years,Weight Loss,Plank,45-50 sec,2,Yes
+36-60 years,Weight Loss,Bicycle Crunches,15-20 reps/side,2,Yes
+36-60 years,Weight Loss,Russian Twists,15-20 reps/side,2,Yes
+Over 60 years,Weight Loss,Jumping Jacks,10-15 reps,2,Yes
+Over 60 years,Weight Loss,Burpees,5-7 reps,2,Yes
+Over 60 years,Weight Loss,High Knees,15-20 sec,2,Yes
+Over 60 years,Weight Loss,Mountain Climbers,8-10 reps/leg,2,Yes
+Over 60 years,Weight Loss,Squats,5-8 reps,2,Yes
+Over 60 years,Weight Loss,Lunges,6-10 reps/leg,2,Yes
+Over 60 years,Weight Loss,Push-ups,5-8 reps,2,Yes
+Over 60 years,Weight Loss,Plank,15-30 sec,2,Yes
+Over 60 years,Weight Loss,Bicycle Crunches,10-15 reps/side,2,Yes
+Over 60 years,Weight Loss,Russian Twists,10-15 reps/side,2,Yes
+6-12 years,Muscle Growth,Leg Raises,5-10,2,Yes
+6-12 years,Muscle Growth,Inchworms,3-5,2,Yes
+6-12 years,Muscle Growth,Mountain Climbers,10-15 reps/leg,2,Yes
+6-12 years,Muscle Growth,Squats,8-12,2,Yes
+6-12 years,Muscle Growth,Lunges,6-10 reps/leg,2,Yes
+6-12 years,Muscle Growth,Push-ups,5-8,2,Yes
+6-12 years,Muscle Growth,Plank,15-30 sec,2,Yes
+6-12 years,Muscle Growth,Bicycle Crunches,10-15 reps/side,2,Yes
+6-12 years,Muscle Growth,Russian Twists,10-15 reps/side,2,Yes
+13-18 years,Muscle Growth,Leg Raises,10-15,2,Yes
+13-18 years,Muscle Growth,Inchworms,6-10,2,Yes
+13-18 years,Muscle Growth,Mountain Climbers,20-25 reps/leg,2,Yes
+13-18 years,Muscle Growth,Squats,11-14,2,Yes
+13-18 years,Muscle Growth,Lunges,8-12 reps/leg,2,Yes
+13-18 years,Muscle Growth,Push-ups,8-12,2,Yes
+13-18 years,Muscle Growth,Plank,40-45 sec,2,Yes
+13-18 years,Muscle Growth,Bicycle Crunches,15-20 reps/side,2,Yes
+13-18 years,Muscle Growth,Russian Twists,15-20 reps/side,2,Yes
+19-35 years,Muscle Growth,Leg Raises,15-20,2,Yes
+19-35 years,Muscle Growth,Inchworms,10-15,2,Yes
+19-35 years,Muscle Growth,Mountain Climbers,10-15 reps/leg,2,Yes
+19-35 years,Muscle Growth,Squats,13-15,2,Yes
+19-35 years,Muscle Growth,Lunges,15-18 reps/leg,2,Yes
+19-35 years,Muscle Growth,Push-ups,15-20,2,Yes
+19-35 years,Muscle Growth,Plank,1-2 min,2,Yes
+19-35 years,Muscle Growth,Bicycle Crunches,20-25 reps/side,2,Yes
+19-35 years,Muscle Growth,Russian Twists,20-25 reps/side,2,Yes
+36-60 years,Muscle Growth,Leg Raises,10-15,2,Yes
+36-60 years,Muscle Growth,Inchworms,6-10,2,Yes
+36-60 years,Muscle Growth,Mountain Climbers,10-15 reps/leg,2,Yes
+36-60 years,Muscle Growth,Squats,9-11,2,Yes
+36-60 years,Muscle Growth,Lunges,6-10 reps/leg,2,Yes
+36-60 years,Muscle Growth,Push-ups,6-9,2,Yes
+36-60 years,Muscle Growth,Plank,45-50 sec,2,Yes
+36-60 years,Muscle Growth,Bicycle Crunches,15-20 reps/side,2,Yes
+36-60 years,Muscle Growth,Russian Twists,15-20 reps/side,2,Yes
+Over 60 years,Muscle Growth,Leg Raises,6-10,2,Yes
+Over 60 years,Muscle Growth,Inchworms,3-5,2,Yes
+Over 60 years,Muscle Growth,Mountain Climbers,8-10 reps/leg,2,Yes
+Over 60 years,Muscle Growth,Squats,5-8,2,Yes
+Over 60 years,Muscle Growth,Lunges,6-10 reps/leg,2,Yes
+Over 60 years,Muscle Growth,Push-ups,5-8,2,Yes
+Over 60 years,Muscle Growth,Plank,15-30 sec,2,Yes
+Over 60 years,Muscle Growth,Bicycle Crunches,10-15 reps/side,2,Yes
+Over 60 years,Muscle Growth,Russian Twists,10-15 reps/side,2,Yes
+6-12 years,Weight Loss,Treadmill Interval Training,5-10 minutes,2,No
+6-12 years,Weight Loss,Stationary Bike Sprints,5-10 minutes,2,No
+6-12 years,Weight Loss,Elliptical Machine,5-15 minutes,2,No
+6-12 years,Weight Loss,Rowing Machine,5-15 minutes,2,No
+6-12 years,Weight Loss,Kettlebell Swings,5-10,2,No
+6-12 years,Weight Loss,Battle Ropes,10-15,2,No
+6-12 years,Weight Loss,Stair Climber,5-10 minutes,2,No
+13-18 years,Weight Loss,Treadmill Interval Training,10-20 minutes,2,No
+13-18 years,Weight Loss,Stationary Bike Sprints,10-20 minutes,2,No
+13-18 years,Weight Loss,Elliptical Machine,15-30 minutes,2,No
+13-18 years,Weight Loss,Rowing Machine,15-30 minutes,2,No
+13-18 years,Weight Loss,Kettlebell Swings,10-15,2,No
+13-18 years,Weight Loss,Battle Ropes,15-20,2,No
+13-18 years,Weight Loss,Stair Climber,10-20 minutes,2,No
+19-35 years,Weight Loss,Treadmill Interval Training,15-30 minutes,2,No
+19-35 years,Weight Loss,Stationary Bike Sprints,15-30 minutes,2,No
+19-35 years,Weight Loss,Elliptical Machine,20-45 minutes,2,No
+19-35 years,Weight Loss,Rowing Machine,20-45 minutes,2,No
+19-35 years,Weight Loss,Kettlebell Swings,15-20,2,No
+19-35 years,Weight Loss,Battle Ropes,20-30,2,No
+19-35 years,Weight Loss,Stair Climber,15-30 minutes,2,No
+36-60 years,Weight Loss,Treadmill Interval Training,10-20 minutes,2,No
+36-60 years,Weight Loss,Stationary Bike Sprints,10-20 minutes,2,No
+36-60 years,Weight Loss,Elliptical Machine,15-30 minutes,2,No
+36-60 years,Weight Loss,Rowing Machine,15-30 minutes,2,No
+36-60 years,Weight Loss,Kettlebell Swings,10-15,2,No
+36-60 years,Weight Loss,Battle Ropes,15-20,2,No
+36-60 years,Weight Loss,Stair Climber,10-20 minutes,2,No
+60+ years,Weight Loss,Treadmill Interval Training,5-10 minutes,2,No
+60+ years,Weight Loss,Stationary Bike Sprints,5-10 minutes,2,No
+60+ years,Weight Loss,Elliptical Machine,10-15 minutes,2,No
+60+ years,Weight Loss,Rowing Machine,10-15 minutes,2,No
+60+ years,Weight Loss,Kettlebell Swings,5-10,2,No
+60+ years,Weight Loss,Battle Ropes,10-15,2,No
+60+ years,Weight Loss,Stair Climber,5-10 minutes,2,No
+6-12 years,Muscle Growth,Not recommended,Not recommended,Not recommended,No
+13-18 years,Muscle Growth,Pull-Ups,1-5 repetitions,2-3 sets,No
+13-18 years,Muscle Growth,Barbell Rows,6-8 repetitions,2-3 sets,No
+13-18 years,Muscle Growth,Bench Press,8-12 repetitions,2-3 sets,No
+13-18 years,Muscle Growth,Deadlifts,8-12 repetitions,2-3 sets,No
+13-18 years,Muscle Growth,Barbell Squats,8-12 repetitions,2-3 sets,No
+13-18 years,Muscle Growth,Dumbbell Shoulder Press,6-8 repetitions,2-3 sets,No
+13-18 years,Muscle Growth,Dumbbell Lunges,6-8 repetitions per leg,2-3 sets,No
+13-18 years,Muscle Growth,Leg Press Machine,8-10 repetitions,2-3 sets,No
+13-18 years,Muscle Growth,Cable Rows,8-10 repetitions,2-3 sets,No
+13-18 years,Muscle Growth,Dumbbell Bicep Curls,8-10 repetitions,2-3 sets,No
+19-35 years,Muscle Growth,Pull-Ups,5-15 repetitions,3-4 sets,No
+19-35 years,Muscle Growth,Barbell Rows,8-10 repetitions,3-4 sets,No
+19-35 years,Muscle Growth,Bench Press,8-12 repetitions,3-4 sets,No
+19-35 years,Muscle Growth,Deadlifts,8-12 repetitions,3-4 sets,No
+19-35 years,Muscle Growth,Barbell Squats,10-12 repetitions,3-4 sets,No
+19-35 years,Muscle Growth,Dumbbell Shoulder Press,8-10 repetitions,3-4 sets,No
+19-35 years,Muscle Growth,Dumbbell Lunges,8-10 repetitions per leg,3-4 sets,No
+19-35 years,Muscle Growth,Leg Press Machine,10-12 repetitions,3-4 sets,No
+19-35 years,Muscle Growth,Cable Rows,10-12 repetitions,3-4 sets,No
+19-35 years,Muscle Growth,Dumbbell Bicep Curls,10-12 repetitions,3-4 sets,No
+36-60 years,Muscle Growth,Pull-Ups,3-10 repetitions,3-4 sets,No
+36-60 years,Muscle Growth,Barbell Rows,8-10 repetitions,3-4 sets,No
+36-60 years,Muscle Growth,Bench Press,8-12 repetitions,3-4 sets,No
+36-60 years,Muscle Growth,Deadlifts,8-12 repetitions,3-4 sets,No
+36-60 years,Muscle Growth,Barbell Squats,8-10 repetitions,3-4 sets,No
+36-60 years,Muscle Growth,Dumbbell Shoulder Press,6-8 repetitions,3-4 sets,No
+36-60 years,Muscle Growth,Dumbbell Lunges,6-8 repetitions per leg,3-4 sets,No
+36-60 years,Muscle Growth,Leg Press Machine,8-10 repetitions,3-4 sets,No
+36-60 years,Muscle Growth,Cable Rows,8-10 repetitions,3-4 sets,No
+36-60 years,Muscle Growth,Dumbbell Bicep Curls,8-10 repetitions,3-4 sets,No
+60+ years,Muscle Growth,Pull-Ups,2-5 repetitions,2-3 sets,No
+60+ years,Muscle Growth,Barbell Rows,6-8 repetitions,2-3 sets,No
+60+ years,Muscle Growth,Bench Press,6-10 repetitions,2-3 sets,No
+60+ years,Muscle Growth,Deadlifts,6-10 repetitions,2-3 sets,No
+60+ years,Muscle Growth,Barbell Squats,5-8 repetitions,2-3 sets,No
+60+ years,Muscle Growth,Dumbbell Shoulder Press,4-6 repetitions,2-3 sets,No
+60+ years,Muscle Growth,Dumbbell Lunges,4-6 repetitions per leg,2-3 sets,No
+60+ years,Muscle Growth,Leg Press Machine,6-8 repetitions,2-3 sets,No
+60+ years,Muscle Growth,Cable Rows,6-8 repetitions,2-3 sets,No
+60+ years,Muscle Growth,Dumbbell Bicep Curls,6-8 repetitions,2-3 sets,No
